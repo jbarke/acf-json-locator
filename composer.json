@@ -1,0 +1,15 @@
+{
+  "name": "jbarke/acf-json-locator",
+  "keywords": [
+    "wordpress",
+    "plugin",
+    "acf",
+    "acf fields",
+    "local-json"
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.0",
+    "composer/installers": "v1.4.0"
+  }
+}
