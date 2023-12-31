@@ -2,7 +2,7 @@
 Contributors: jeffwbarke
 Tags: acf, acf fields, local-json
 Requires at least: 4.7
-Tested up to: 6.0.2
+Tested up to: 6.4.2
 Stable tag: 1.0.1
 Requires PHP: 7.0
 License: GPLv2 or later
