@@ -7,3 +7,6 @@ _notes/
 
 # Text editor things
 *.sublime-*
+
+# Composer things
+/vendor/**/*
