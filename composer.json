@@ -1,5 +1,7 @@
 {
   "name": "jbarke/acf-json-locator",
+  "description": "Set the save and load points for Advanced Custom Fields local JSON files.",
+  "type": "wordpress-plugin",
   "keywords": [
     "wordpress",
     "plugin",
@@ -7,9 +9,20 @@
     "acf fields",
     "local-json"
   ],
-  "type": "wordpress-plugin",
+  "readme": "README.md",
+  "license":"GPL-2.0-or-later",
+  "authors":[
+    {
+      "name":"Jeffrey Barke",
+      "role": "Developer"
+    }
+  ],
   "require": {
-    "php": ">=7.0",
-    "composer/installers": "v1.4.0"
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "acfLocalJsonLocator\\": "classes/"
+    }
   }
 }
