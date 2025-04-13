@@ -2,8 +2,8 @@
 Contributors: jeffwbarke
 Tags: acf, acf fields, local-json, cache
 Requires at least: 4.7
-Tested up to: 6.4.2
-Stable tag: 2.0.0
+Tested up to: 6.7.2
+Stable tag: 2.0.1
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -32,6 +32,11 @@ There is a similar plugin out there that sets the save and load point to the `wp
 4. Update all the field groups to generate JSON files.
 
 == Changelog ==
+
+= 2.0.1 =
+Release date: 13 April 2025
+
+* Bumped “Tested up to” field to 6.7.2.
 
 = 2.0.0 =
 Release date: 31 December 2023

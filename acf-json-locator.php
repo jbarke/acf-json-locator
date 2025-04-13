@@ -5,7 +5,7 @@
  * @wordpress-plugin
  * Plugin Name: ACF local JSON locator
  * Description: Set the save and load points for Advanced Custom Fields local JSON files. Defaults to `wp-content/acf-json`.
- * Version: 2.0.0
+ * Version: 2.0.1
  * Author: Jeffrey Barke
  * License: GPLv2 or later
  * @license https://www.gnu.org/licenses/gpl-2.0.html
